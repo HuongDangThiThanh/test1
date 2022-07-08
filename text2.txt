@@ -1,0 +1,2 @@
+Hello, this is text2.txt file
+This is just example working on branch 2
